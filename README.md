@@ -1,5 +1,5 @@
 ### Hello, Geeks!  👋
-I am Snehal Mundhe. I am a Full Stack Engineer, adept at contributing to highly collaborative work environment. I have hands-on experience in designing, developing, implementing and deploying applications using variety of technologies and programming languages. 
+I am Snehal Mundhe. I am a Full Stack Engineer, adept at contributing to highly collaborative work environment. I have hands-on experience in designing, developing, implementing and deploying applications using variety of technologies and programming languages. <br/>
 :star: I am passionate about developing Full Stack applications. 
 
 ###  :cherry_blossom: Pronouns
