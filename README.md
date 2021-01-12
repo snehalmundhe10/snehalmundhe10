@@ -1,5 +1,5 @@
 ### Hello, Geeks!  👋
-<a href="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"><img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" title="programmer" width="600" height=600/></a>
+<a href="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"><img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" title="programmer" width="600" height=400/></a>
 <br/>
 I am Snehal Mundhe. I am a Full Stack Engineer, adept at contributing to highly collaborative work environment. I have hands-on experience in designing, developing, and deploying applications using variety of technologies and programming languages. <br/>
 :star: I am passionate about developing Full Stack applications. <br/> <br/>
