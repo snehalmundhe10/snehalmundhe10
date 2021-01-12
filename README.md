@@ -10,8 +10,8 @@ An  ambitious girl who likes to travel, hit the gym and code too. :smile:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalmundhe10&label=Profile%20views&color=0e75b6&style=flat" alt="snehalmundhe10" /> </p>
 
-- 📫 How to reach me? <br/>
-**m.snehal106@gmail.com**
+- 📫 How to reach me? <br/><br/>
+  **m.snehal106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
