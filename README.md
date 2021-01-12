@@ -1,9 +1,15 @@
-### Hi there, I'm Snehal  👋
+### Hello, Geeks!  👋
+I am <em> Snehal Mundhe <em/>. I am Full Stack Engineer adept at contributing to highly collaborative work environment. I have hands-on experience in designing, developing, implementing and deploying applications using variety of technologies and programming languages. :star: I am passionate about developing Full Stack applications. 
+
+###  :cherry_blossom: Pronouns
+She/Her
+
+###  :tulip: One line that describes me the best?
+An  ambitious girl who likes to travel, hit the gym and code too. :smile:
 
 
-## I'm a Full Stack Developer!!
+### How to reach me?
 
-<br />
 
 ![Snehal's github stats](https://github-readme-stats.vercel.app/api?username=snehalmundhe10&show_icons=true&theme=default)
 
