@@ -20,7 +20,10 @@ An  ambitious girl who likes to travel, hit the gym and code too. :smile:
 
 ![Snehal's github stats](https://github-readme-stats.vercel.app/api?username=snehalmundhe10&show_icons=true&theme=default)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehalmundhe10" alt="snehalmundhe10" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalmundhe10&show_icons=true&locale=en&layout=compact" alt="snehalmundhe10" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalmundhe10&" alt="snehalmundhe10" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
