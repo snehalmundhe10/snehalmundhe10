@@ -1,6 +1,7 @@
 ### Hello, Geeks!  👋
 I am Snehal Mundhe. I am a Full Stack Engineer, adept at contributing to highly collaborative work environment. I have hands-on experience in designing, developing, implementing and deploying applications using variety of technologies and programming languages. <br/>
-:star: I am passionate about developing Full Stack applications. 
+:star: I am passionate about developing Full Stack applications. <br/> <br/>
+I am looking forward to learn more, gain experience :seedling:, collaborate and develop :computer: incredible products for the world :earth_asia:!
 
 ###  :cherry_blossom: Pronouns
 She/Her
@@ -18,7 +19,7 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 <a href="https://linkedin.com/in/snehal-mundhe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snehal-mundhe" height="30" width="40" /></a>
 </p> 
 <br/>
-I am looking forward to learn more, gain experience :seedling:, collaborate and develop :computer: incredible products for the world :earth_asia:! <br/>
+ <br/>
 
 ### :star: Languages and Tools
 <br/>
