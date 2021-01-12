@@ -2,15 +2,15 @@
 I am Snehal Mundhe. I am a Full Stack Engineer, adept at contributing to highly collaborative work environment. I have hands-on experience in designing, developing, implementing and deploying applications using variety of technologies and programming languages. <br/>
 :star: I am passionate about developing Full Stack applications. 
 
-###  :cherry_blossom: Pronouns
+#####  :cherry_blossom: Pronouns
 She/Her
 
-###  :tulip: One line that describes me the best?
+#####  :tulip: One line that describes me the best?
 An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalmundhe10&label=Profile%20views&color=0e75b6&style=flat" alt="snehalmundhe10" /> </p>
 
-### 📫 How to reach me? <br/>
+##### 📫 How to reach me? <br/>
   **m.snehal106@gmail.com**
 
 ### :email: Connect with me
