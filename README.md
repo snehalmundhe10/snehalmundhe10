@@ -13,13 +13,12 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 ### 📫 How to reach me? <br/>
   **m.snehal106@gmail.com**
 
-### :email Connect with me
+### :email: Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/snehal-mundhe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snehal-mundhe" height="30" width="40" /></a>
-</p> <br/>
+</p> 
 I am looking forward to learn more, gain experience :seedling:, collaborate :leaves: and develop :computer: incredible products for the world :earth_asia:!
-
-
+<br/>
 ![Snehal's github stats](https://github-readme-stats.vercel.app/api?username=snehalmundhe10&show_icons=true&theme=default)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalmundhe10&show_icons=true&locale=en&layout=compact" alt="snehalmundhe10" /></p>
