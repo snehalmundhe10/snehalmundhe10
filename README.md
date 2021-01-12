@@ -1,5 +1,5 @@
 ### Hello, Geeks!  👋
-I am Snehal Mundhe. I am a Full Stack Engineer, adept at contributing to highly collaborative work environment. I have hands-on experience in designing, developing, implementing and deploying applications using variety of technologies and programming languages. <br/>
+I am Snehal Mundhe. I am a Full Stack Engineer, adept at contributing to highly collaborative work environment. I have hands-on experience in designing, developing, and deploying applications using variety of technologies and programming languages. <br/>
 :star: I am passionate about developing Full Stack applications. <br/> <br/>
 I am looking forward to learn more, gain experience :seedling:, collaborate and develop :computer: incredible products for the world :earth_asia:!
 
@@ -29,7 +29,7 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalmundhe10&show_icons=true&locale=en&layout=compact" alt="snehalmundhe10" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalmundhe10&" alt="snehalmundhe10" /></p>
 
 
