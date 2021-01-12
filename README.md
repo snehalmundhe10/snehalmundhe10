@@ -7,8 +7,7 @@
 
 ![Snehal's github stats](https://github-readme-stats.vercel.app/api?username=snehalmundhe10&show_icons=true&theme=default)
 
-<h1 align="center">Hi 👋, I'm Snehal Mundhe</h1>
-<h3 align="center">Full Stack Engineer</h3>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
