@@ -29,7 +29,7 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 <br/>
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalmundhe10&theme=default" alt="snehalmundhe10" /></p> -->
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehalmundhe10&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehalmundhe10)](https://git.io/streak-stats)
 
 
 ### :star: Languages and Tools
