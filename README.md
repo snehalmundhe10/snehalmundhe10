@@ -27,9 +27,9 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalmundhe10&show_icons=true&locale=en&layout=compact" alt="snehalmundhe10" /></p>
 <br/>
-<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalmundhe10&theme=default" alt="snehalmundhe10" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalmundhe10&theme=default" alt="snehalmundhe10" /></p>
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehalmundhe10)](https://git.io/streak-stats)
+
 
 
 ### :star: Languages and Tools
