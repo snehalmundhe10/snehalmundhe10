@@ -25,9 +25,6 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 
 <br/>
 
-### 📫 How to reach me? 
-<br/>
-  **m.snehal106@gmail.com**
 
 ### :email: Connect with me :smile:
 <p align="left">
