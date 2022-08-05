@@ -11,7 +11,7 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalmundhe10&label=Profile%20views&color=0e75b6&style=flat" alt="snehalmundhe10" /> </p>
 <br/>
-Github Stats:
+
 <span>![](https://komarev.com/ghpvc/?snehalmundhe10=snehalmundhe10&style=flat-square) </span>
 <br/>
 
