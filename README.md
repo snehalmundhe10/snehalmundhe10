@@ -15,7 +15,7 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 <img width="150px"  src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="ckad" />
 <img width="150px"  src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" />
 </div>
-
+<br/> </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalmundhe10&label=Profile%20views&color=0e75b6&style=flat" alt="snehalmundhe10" /> </p>
 <br/>
 
