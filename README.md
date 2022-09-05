@@ -25,6 +25,7 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 <br/> 
 
 ### :bar_chart: Statistics :bar_chart:
+</br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalmundhe10&show_icons=true&locale=en&layout=compact" alt="snehalmundhe10" /></p>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalmundhe10&label=Profile%20views&color=0e75b6&style=flat" alt="snehalmundhe10" /> </p>
