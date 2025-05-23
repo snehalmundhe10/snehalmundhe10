@@ -18,11 +18,7 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 </div>
 <br/>
 
-### :briefcase: Connect with me :briefcase:
-<p align="left"> Connect with me on LinkedIn :point_right:
-<a href="https://linkedin.com/in/snehal-mundhe" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="snehal-mundhe"/></a>
-</p> 
-<br/> 
+
 
 ### :bar_chart: Statistics :bar_chart:
 </br>
