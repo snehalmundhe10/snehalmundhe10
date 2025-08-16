@@ -16,6 +16,7 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 <a href="https://www.credly.com/badges/6393d72c-7695-437d-a00f-2e35bbee708d" target="blank"><img width="120px"  src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png" alt="ckad" /></a> 
 <a href="https://www.credly.com/badges/49ae403f-3196-4bd4-b4bb-f4c59fa9a25e?source=linked_in_profile" target="blank"><img width="120px"  src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" /> </a>
 <a href="https://www.credly.com/badges/7120e718-0840-484e-974b-9ca55452e742" target="blank"><img width="120px" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="cka" /></a>
+ <a href="https://www.credly.com/earner/earned/badge/7d977119-2ab8-4bf4-b160-ac503ac51444" target="blank"><img width="120px" src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="awsdevops" /></a>
 </div>
 <br/>
 
