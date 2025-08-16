@@ -13,7 +13,7 @@ An  ambitious learner who likes to travel, hit the gym and code too. :smile:
 </br>
 <div>
 <a href="https://www.credly.com/badges/22a18e7e-b73a-4bad-bd5c-dcf7385b3388/linked_in" target="blank"><img width="120px" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="awscertified" /></a>
-<a href="https://www.credly.com/badges/6393d72c-7695-437d-a00f-2e35bbee708d" target="blank"><img width="120px"  src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="ckad" /></a> 
+<a href="https://www.credly.com/badges/6393d72c-7695-437d-a00f-2e35bbee708d" target="blank"><img width="120px"  src="[https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png](https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)" alt="ckad" /></a> 
 <a href="https://www.credly.com/badges/49ae403f-3196-4bd4-b4bb-f4c59fa9a25e?source=linked_in_profile" target="blank"><img width="120px"  src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" /> </a>
 </div>
 <br/>
